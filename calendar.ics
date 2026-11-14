@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DATA Events
+X-WR-TIMEZONE:America/Toronto
+X-WR-CALDESC:This is the public DATA club calendar! Users can subscribe to 
+ see current events and ongoings of the DATA club.
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+LAST-MODIFIED:20261009T235635Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20261126T080000
+DTEND;TZID=America/Toronto:20261126T110000
+DTSTAMP:20261114T130538Z
+UID:2as3225k52m25oscshhbe4la1t@google.com
+CREATED:20261106T033918Z
+DESCRIPTION:Come join us in the DRA Library Atrium for a FREE NFC card!\n\n
+ Everyone is welcome\, regardless of skill\, technical background\, or stud
+ ent status!\n\nLearn:Come learn how to program your NFC card to link to yo
+ ur socials\, resume\, or any other URL!\n\nChat:Discuss how NFC works\, it
+ s real world applications\, and other nerdy topics!
+LAST-MODIFIED:20261112T233710Z
+LOCATION:DRA Library Atrium\, Table 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Uses of technology: NFC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20261119T100000
+DTEND;TZID=America/Toronto:20261119T113000
+DTSTAMP:20261114T130538Z
+UID:7u89gb3u4b45vlhik341ose4fi@google.com
+CREATED:20261105T161838Z
+DESCRIPTION:Come to the Responsible AI Community Engagement Project (RAICEP
+ ) event in DRA 116!\n\nThis event is hosted by one of the DATA club's part
+ ners: Mark Mc Kenzie!
+LAST-MODIFIED:20261107T171855Z
+LOCATION:DRA 116
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RAICEP
+TRANSP:OPAQUE
+ATTACH;FILENAME=Notes - RAICEP;FMTTYPE=application/vnd.google-apps.document
+ :https://docs.google.com/document/d/1vRTy18eXoUCKNORJ1uFy4Snw4zDqwvBimlHLl
+ NEBuIY/edit
+END:VEVENT
+END:VCALENDAR
