@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DATA Events
+X-WR-TIMEZONE:America/Toronto
+X-WR-CALDESC:This is the public DATA club calendar! Users can subscribe to 
+ see current events and ongoings of the DATA club.
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20261015T150000
+DTEND;TZID=America/Toronto:20261015T163000
+DTSTAMP:20261121T203538Z
+UID:5ad3vm37uoid6qc36t11mue8hv@google.com
+CREATED:20261118T051130Z
+DESCRIPTION:<b>Workshop materials:</b> <a href="https://www.dropbox.com/sc
+ l/fo/coa2eqbttuycwp69imymc/AMD263jYjgJWKwPjtTbMLKA?rlkey=9h57j383u3n4j13uq
+ rc9jr5ak&st=qub498wu&dl=0" target="_blank"><u>Workshop Resources</u></a><b
+ r>The folder includes the resources from the session and can be revisited 
+ at any time.
+X-ALT-DESC;FMTTYPE=text/html:<b>Workshop materials:</b> <a href="https://w
+ ww.dropbox.com/scl/fo/coa2eqbttuycwp69imymc/AMD263jYjgJWKwPjtTbMLKA?rlkey=
+ 9h57j383u3n4j13uqrc9jr5ak&st=qub498wu&dl=0" target="_blank"><u>Workshop Re
+ sources</u></a><br>The folder includes the resources from the session and 
+ can be revisited at any time.
+LAST-MODIFIED:20261120T014211Z
+LOCATION:DRA 121
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RAICEP: Responsible AI & Cybersecurity (Partnered)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20261126T130000
+DTEND;TZID=America/Toronto:20261126T160000
+DTSTAMP:20261121T203538Z
+UID:2as3225k52m25oscshhbe4la1t@google.com
+CREATED:20261106T033918Z
+DESCRIPTION:Come join us in the DRA Library Atrium for a <b><u>FREE</u></b>
+  NFC card!<br><br>Everyone is welcome\, regardless of skill\, technical ba
+ ckground\, or student status!<br><ul><li>Learn: Come learn how to program 
+ your NFC card to link to your socials\, resume\, or any other URL!</li><li
+ >Chat: Discuss how NFC works\, its real world applications\, and other ner
+ dy topics!</li></ul><br>We will be using <i>NFC Tools</i> (free version) 
+ for this event\, which is available on both Android and iOS mobile devices
+ . Feel free to get it yourself or have one of us demonstrate it for you! Y
+ ou can find the Google Play\, APK\, and App Store links here:<br><ul><li><
+ b>Google Play (Android):</b> <a href="https://play.google.com/store/apps/
+ details?id=com.wakdev.wdnfc&pcampaignid=web_share" target="_blank">NFC Too
+ ls</a>.</li><li><b>Official Website (Android):</b> <a href="https://www.w
+ akdev.com/en/apps/nfc-tools-se-android.html">NFC Tools SE</a>.</li><li><b>
+ App Store (iOS):</b> <a href="https://apps.apple.com/ca/app/nfc-tools/id1
+ 252962749" target="_blank">NFC Tools App</a>.</li></ul><br><i>This event a
+ nd poster have been approved by the TDSA.</i>
+X-ALT-DESC;FMTTYPE=text/html:Come join us in the DRA Library Atrium for a <
+ b><u>FREE</u></b> NFC card!<br><br>Everyone is welcome\, regardless of ski
+ ll\, technical background\, or student status!<br><ul><li>Learn: Come lear
+ n how to program your NFC card to link to your socials\, resume\, or any o
+ ther URL!</li><li>Chat: Discuss how NFC works\, its real world application
+ s\, and other nerdy topics!</li></ul><br>We will be using <i>NFC Tools</i>
+  (free version) for this event\, which is available on both Android and i
+ OS mobile devices. Feel free to get it yourself or have one of us demonstr
+ ate it for you! You can find the Google Play\, APK\, and App Store links h
+ ere:<br><ul><li><b>Google Play (Android):</b> <a href="https://play.googl
+ e.com/store/apps/details?id=com.wakdev.wdnfc&pcampaignid=web_share" target
+ ="_blank">NFC Tools</a>.</li><li><b>Official Website (Android):</b> <a hr
+ ef="https://www.wakdev.com/en/apps/nfc-tools-se-android.html">NFC Tools SE
+ </a>.</li><li><b>App Store (iOS):</b> <a href="https://apps.apple.com/ca/
+ app/nfc-tools/id1252962749" target="_blank">NFC Tools App</a>.</li></ul><b
+ r><i>This event and poster have been approved by the TDSA.</i>
+LAST-MODIFIED:20261120T014149Z
+LOCATION:DRA Library Atrium\, Table 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Uses of technology: NFC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20261119T150000
+DTEND;TZID=America/Toronto:20261119T163000
+DTSTAMP:20261121T203538Z
+UID:7u89gb3u4b45vlhik341ose4fi@google.com
+CREATED:20261105T161838Z
+DESCRIPTION:Come to the Responsible AI Community Engagement Project (RAICEP
+ ) event in DRA 116!<br><br>This session is titled <b>Responsible AI in Act
+ ion: <i>Explore\, Build\, Discuss &amp\; Experience</i></b> and will incl
+ ude a mix of discussion and hands-on activities around AI.<br><br>Particip
+ ants will explore:<ul><li>The biggest benefits and opportunities associate
+ d with AI</li><li>What people need in order to trust AI</li><li>Key trust 
+ issues and concerns\, and how these could be addressed</li><li>A hands-on 
+ VR experience</li><li>Continued AI agent building and testing</li></ul><br
+ >There will also be <strong><b><u>FREE</u></b></strong> food provided at t
+ he event for participants! <br><br>For participants looking for something
+  more technical\, there will also be an <b>optional advanced activity</b>
+  for those who want to go a little deeper and push their AI skills furthe
+ r.<br><br>This event is hosted by one of the DATA club's partners: Mark Mc
+  Kenzie!
+X-ALT-DESC;FMTTYPE=text/html:Come to the Responsible AI Community Engagemen
+ t Project (RAICEP) event in DRA 116!<br><br>This session is titled <b>Resp
+ onsible AI in Action: <i>Explore\, Build\, Discuss &amp\; Experience</i></
+ b> and will include a mix of discussion and hands-on activities around AI
+ .<br><br>Participants will explore:<ul><li>The biggest benefits and opport
+ unities associated with AI</li><li>What people need in order to trust AI</
+ li><li>Key trust issues and concerns\, and how these could be addressed</l
+ i><li>A hands-on VR experience</li><li>Continued AI agent building and tes
+ ting</li></ul><br>There will also be <strong><b><u>FREE</u></b></strong> f
+ ood provided at the event for participants! <br><br>For participants look
+ ing for something more technical\, there will also be an <b>optional advan
+ ced activity</b> for those who want to go a little deeper and push their 
+ AI skills further.<br><br>This event is hosted by one of the DATA club's p
+ artners: Mark Mc Kenzie!
+LAST-MODIFIED:20261120T014158Z
+LOCATION:DRA 116
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RAICEP: Responsible AI in Action (Partnered)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
