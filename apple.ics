@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DATA Events
+X-WR-TIMEZONE:America/Toronto
+X-WR-CALDESC:This is the public DATA club calendar! Users can subscribe to 
+ see current events and ongoings of the DATA club.
+BEGIN:VEVENT
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+DTSTAMP:20261128T113024Z
+UID:2as3225k52m25oscshhbe4la1t@google.com
+CREATED:20261106T033918Z
+DESCRIPTION:Come join us in the DRA Library Atrium for a FREE NFC card!\n\n
+ Everyone is welcome\, regardless of skill\, technical background\, or stud
+ ent status!\n• Learn: Come learn how to program your NFC card to link to
+  your socials\, resume\, or any other URL!\n• Chat: Discuss how NFC work
+ s\, its real world applications\, and other nerdy topics!\n\nWe will be us
+ ing NFC Tools (free version) for this event\, which is available on both 
+ Android and iOS mobile devices. Feel free to get it yourself or have one o
+ f us demonstrate it for you! You can find the Google Play\, APK\, and App 
+ Store links here:\n• Google Play (Android): NFC Tools (https://play.goo
+ gle.com/store/apps/details?id=com.wakdev.wdnfc&pcampaignid=web_share).\n
+ • Official Website (Android): NFC Tools SE (https://www.wakdev.com/en/a
+ pps/nfc-tools-se-android.html).\n• App Store (iOS): NFC Tools App (http
+ s://apps.apple.com/ca/app/nfc-tools/id1252962749).\n\nThis event and poste
+ r have been approved by the TDSA.
+LAST-MODIFIED:20261123T200417Z
+LOCATION:DRA Library Atrium\, Table 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Uses of technology: NFC █
+TRANSP:OPAQUE
+ATTACH;FILENAME=event-promo-poster.png;FMTTYPE=image/png:https://drive.goog
+ le.com/open?id=1ATgDtoR3vIt2qV3stSNCHGwTJVpR35xD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T200000Z
+DTEND:20261119T213000Z
+DTSTAMP:20261128T113024Z
+UID:7u89gb3u4b45vlhik341ose4fi@google.com
+CREATED:20261105T161838Z
+DESCRIPTION:Come to the Responsible AI Community Engagement Project (RAICEP
+ ) event in DRA 116!\n\nThis session is titled Responsible AI in Action: Ex
+ plore\, Build\, Discuss & Experience and will include a mix of discussion
+  and hands-on activities around AI.\n\nParticipants will explore:• The b
+ iggest benefits and opportunities associated with AI\n• What people need
+  in order to trust AI\n• Key trust issues and concerns\, and how these c
+ ould be addressed\n• A hands-on VR experience\n• Continued AI agent bu
+ ilding and testing\n\nThere will also be FREE food provided at the event f
+ or participants! \n\nFor participants looking for something more technica
+ l\, there will also be an optional advanced activity for those who want t
+ o go a little deeper and push their AI skills further.\n\nThis event is ho
+ sted by one of the DATA club's partners: Mark Mc Kenzie!
+LAST-MODIFIED:20261123T005018Z
+LOCATION:DRA 116
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RAICEP: Responsible AI in Action (Partnered)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T190000Z
+DTEND:20261015T203000Z
+DTSTAMP:20261128T113024Z
+UID:5ad3vm37uoid6qc36t11mue8hv@google.com
+CREATED:20261118T051130Z
+DESCRIPTION:Workshop materials: Workshop Resources (https://www.dropbox.co
+ m/scl/fo/coa2eqbttuycwp69imymc/AMD263jYjgJWKwPjtTbMLKA?rlkey=9h57j383u3n4j
+ 13uqrc9jr5ak&st=qub498wu&dl=0)\nThe folder includes the resources from the
+  session and can be revisited at any time.
+LAST-MODIFIED:20261123T005032Z
+LOCATION:DRA 121
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:RAICEP: Responsible AI & Cybersecurity (Partnered)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
